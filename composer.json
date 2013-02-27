@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe/thickbox",
+	"name": "sunnysideup/thickbox",
 	"type": "silverstripe-module",
 	"description": "add the jQuery Thickbox Library to your silverstripe application.",
 	"homepage": "http://www.silverstripe-webdevelopment.com",
