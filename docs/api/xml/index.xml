@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index xmlns="http://xml.phpdox.net/src" basedir="/var/www/_modules/thickbox/trunk">
+  <namespace name="">
+    <class name="ThickBox" src="code/ThickBox.php" xml="classes/ThickBox.xml"/>
+  </namespace>
+</index>

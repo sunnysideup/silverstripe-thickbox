@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source xmlns="http://xml.phpdox.net/src">
+  <dir name="/var/www/_modules/thickbox/trunk">
+    <file name="_config.php" size="563" time="2015-03-14T10:23:58+13:00" unixtime="1426281838" sha1="6829ef1df6f914c821f672080d3869e341face1e" xml="tokens/_config.php.xml"/>
+    <dir name="code">
+      <file name="ThickBox.php" size="531" time="2015-03-14T10:23:58+13:00" unixtime="1426281838" sha1="f2d07b7a41a2aaa31014a411c651939b8e2b4954" xml="tokens/code/ThickBox.php.xml"/>
+    </dir>
+  </dir>
+</source>
